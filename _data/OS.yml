@@ -1,7 +1,7 @@
 ---
 External:
   label: External
-  description: Completly outside of the env (do not have a user or any creds)
+  description: Completly outside of the env (do not have a user or any creds).
 
 Internal:
   label: Internal
