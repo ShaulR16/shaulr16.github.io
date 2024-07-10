@@ -22,3 +22,7 @@ PostExp:
 LateralMove:
   label: Lateral Movement
   description: Command focuses on Lateral Movement.
+
+DefenseEvasion:
+  label: Defense Evasion
+  description: Command focuses on Defense Evasion.
