@@ -15,7 +15,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - Defense Evasion
+  - DefenseEvasion
 references:
   - https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/delete-trail.html
 ---
