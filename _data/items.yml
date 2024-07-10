@@ -1,14 +1,14 @@
 ---
 Username and Password:
-  label: Username and Password
+  label: Username & Password
   description: You've found username(s) and password(s) and need to know what you can do with them.
 
 Access Keys (API Keys):
-  label: Access Keys (API Keys)
-  description: You've found Access Keys (API Keys) and need to know what you can do with them.
+  label: Access Keys
+  description: You've found Access Keys and need to know what you can do with them.
 
 IAM Roles and Policies:
-  label: IAM Roles and Policies
+  label: IAM Roles & Policies
   description: You have IAM Roles and Policies and need to know what you can still do.
 
 OAuth Tokens:
