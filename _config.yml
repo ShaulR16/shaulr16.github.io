@@ -1,12 +1,12 @@
 ---
-title: WADComs
+title: SkyFall
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
 
 permalink: pretty
 
 collections:
-  wadcoms:
+  skyfall:
     output: true
 
 defaults:
