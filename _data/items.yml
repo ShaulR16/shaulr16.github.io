@@ -1,0 +1,25 @@
+---
+Username and Password:
+  label: Username and Password
+  description: You've found username(s) and password(s) and need to know what you can do with them.
+
+Access Keys (API Keys):
+  label: Access Keys (API Keys)
+  description: You've found Access Keys (API Keys) and need to know what you can do with them.
+
+IAM Roles and Policies:
+  label: IAM Roles and Policies
+  description: You have IAM Roles and Policies and need to know what you can still do.
+
+OAuth Tokens:
+  label: OAuth Tokens
+  description: You've found OAuth Tokens and need to know what you can do with them.
+
+Service Account Keys:
+  label: Service Account Keys
+  description: You've found Service Account Keys and need to know what you can do with them.
+
+Certificates:
+  label: Certificates
+  description: You've found Certificates and need to know what you can do with them.
+

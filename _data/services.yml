@@ -1,0 +1,20 @@
+---
+AWS:
+  label: AWS
+  description: Amazon Web Services cloud environment providing a wide range of on-demand cloud computing platforms.
+
+Azure:
+  label: Azure
+  description: Microsoft Azure cloud platform offering a variety of cloud services including analytics, storage, and networking.
+
+Google Cloud:
+  label: Google Cloud
+  description: Google Cloud Platform providing cloud computing services on the same infrastructure as Google Search and YouTube.
+
+Oracle Cloud:
+  label: Oracle Cloud
+  description: Oracle Cloud Infrastructure offering high-performance computing and storage services.
+
+Alibaba Cloud:
+  label: Alibaba Cloud
+  description: Alibaba Cloud, also known as Aliyun, provides a comprehensive suite of global cloud computing services.

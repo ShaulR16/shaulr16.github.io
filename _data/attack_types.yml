@@ -1,0 +1,24 @@
+---
+Enumeration:
+  label: Enumeration
+  description: Command focuses on enumeration.
+
+Exploitation:
+  label: Exploitation
+  description: Command focuses on exploitation.
+
+Persistence:
+  label: Persistence
+  description: Command focuses on persistence.
+
+PrivEsc:
+  label: Privilege Escalation
+  description: Command focuses on privilege escalation.
+
+PostExp:
+  label: Post-Exploitation
+  description: Command focuses on Post-Exploitation.
+
+LateralMove:
+  label: Lateral Movement
+  description: Command focuses on Lateral Movement.
