@@ -7,8 +7,5 @@ skyfall is an interactive cheat sheet, containing a curated list of offensive se
 
 Find the project at https://skyfall.github.io
 
-Created by [John Woodman](https://twitter.com/JohnWoodman15)
+Created by [ShaulR16](https://twitter.com/x)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JohnWoodman)
-
-[<img src="assets/WCS_button.png" width="15%" height="15%">](https://secure.wcs.org/donate/keep-world-wild)
