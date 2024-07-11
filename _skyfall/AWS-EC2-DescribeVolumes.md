@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-volumes
 
 items:
-  - EBS Volumes
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

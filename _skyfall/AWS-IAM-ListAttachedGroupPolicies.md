@@ -10,7 +10,7 @@ command: |
   aws iam list-attached-group-policies --group-name replace_with_group_name
 
 items:
-  - Attached Policies
+  - Access Keys
 services:
   - AWS
 OS:

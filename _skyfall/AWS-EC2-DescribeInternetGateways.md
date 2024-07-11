@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-internet-gateways
 
 items:
-  - Internet Gateways
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

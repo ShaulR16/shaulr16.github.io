@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-transit-gateways
 
 items:
-  - Transit Gateways
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

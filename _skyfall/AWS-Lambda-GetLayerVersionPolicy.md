@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda get-layer-version-policy --layer-name $layer_name --version-number $version
 items:
-  - Lambda Layer Version Policy
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-vpc-endpoints
 
 items:
-  - VPC Endpoints
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

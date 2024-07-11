@@ -11,7 +11,7 @@ command: |
   aws iam get-policy-version --policy-arn replace_with_policy_arn --version-id replace_with_version_id
 
 items:
-  - Policy Version Details
+  - Access Keys
 services:
   - AWS
 OS:

@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-images --filters "Name=is-public,Values=false"
 
 items:
-  - Private AMIs
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

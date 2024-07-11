@@ -9,11 +9,11 @@ description: |
 command: |
   aws --endpoint-url http://s3.replace_with_url dynamodb scan --table-name users | jq -r '.Items[]'
 items:
-  - DynamoDB Table Items
+  - Access Keys
 services:
-  - AWS DynamoDB
+  - AWS
 OS:
-  - External
+  - Internal
 attack_types:
   - Enumeration
 references:

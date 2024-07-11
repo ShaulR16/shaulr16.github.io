@@ -10,7 +10,7 @@ command: |
   aws iam get-login-profile --user-name replace_with_username
 
 items:
-  - Login Profile
+  - Access Keys
 services:
   - AWS
 OS:

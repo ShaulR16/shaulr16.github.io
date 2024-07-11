@@ -10,7 +10,7 @@ command: |
   aws iam list-ssh-public-keys --user-name replace_with_username
 
 items:
-  - SSH Public Keys
+  - Access Keys
 services:
   - AWS
 OS:

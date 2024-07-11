@@ -11,7 +11,7 @@ command: |
   aws iam get-ssh-public-key --user-name replace_with_username --encoding PEM --ssh-public-key-id replace_with_ssh_public_key_id
 
 items:
-  - SSH Public Key Details
+  - Access Keys
 services:
   - AWS
 OS:

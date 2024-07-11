@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-client-vpn-connections --client-vpn-endpoint-id $id
 
 items:
-  - Client VPN Connections
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

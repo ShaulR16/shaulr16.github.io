@@ -10,9 +10,9 @@ command: |
   aws s3api get-bucket-policy --bucket replace_with_bucket_name
 
 items:
-  - Bucket Policy
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
   - Internal
 attack_types:

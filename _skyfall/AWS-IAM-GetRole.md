@@ -10,7 +10,7 @@ command: |
   aws iam get-role --role-name replace_with_role_name
 
 items:
-  - Role Details
+  - Access Keys
 services:
   - AWS
 OS:

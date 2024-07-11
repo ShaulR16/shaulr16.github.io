@@ -10,9 +10,9 @@ command: |
   aws s3api get-bucket-policy-status --bucket replace_with_bucket_name --output text | python -m json.tool
 
 items:
-  - Bucket Policy Status
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
   - Internal
 attack_types:

@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-key-pairs
 
 items:
-  - SSH Key Pairs
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

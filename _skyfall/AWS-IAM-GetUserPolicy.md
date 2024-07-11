@@ -11,7 +11,7 @@ command: |
   aws iam get-user-policy --user-name replace_with_username --policy-name replace_with_policy_name
 
 items:
-  - User Policy Details
+  - Access Keys
 services:
   - AWS
 OS:

@@ -10,12 +10,13 @@ command: |
   aws s3api list-object-versions --bucket replace_with_bucket_name
 
 items:
-  - Object Versions
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
   - Internal
 attack_types:
+  - Enumeration
   - Enumeration
 references:
   - https://docs.aws.amazon.com/cli/latest/reference/s3api/list-object-versions.html

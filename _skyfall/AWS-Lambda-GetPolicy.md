@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda get-policy --function-name $name
 items:
-  - Lambda Function Resource-Based Policy
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

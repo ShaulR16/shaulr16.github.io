@@ -12,9 +12,9 @@ command: |
   aws s3 ls replace_with_bucket_name
 
 items:
-  - Objects
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
   - Internal
 attack_types:

@@ -10,7 +10,7 @@ command: |
   aws iam get-policy --policy-arn replace_with_policy_arn
 
 items:
-  - Policy Details
+  - Access Keys
 services:
   - AWS
 OS:

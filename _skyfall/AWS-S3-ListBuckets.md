@@ -6,9 +6,9 @@ command: |
   aws s3api list-buckets --query "Buckets[].Name"
 
 items:
-  - Buckets
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
   - Internal
 attack_types:

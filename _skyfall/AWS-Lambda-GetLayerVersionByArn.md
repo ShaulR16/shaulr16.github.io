@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda get-layer-version-by-arn --arn $layer_arn
 items:
-  - Lambda Layer Version Details
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

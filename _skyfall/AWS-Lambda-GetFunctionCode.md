@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda get-function --function-name $name --query 'Code.Location'
 items:
-  - Lambda Function Code Download Link
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

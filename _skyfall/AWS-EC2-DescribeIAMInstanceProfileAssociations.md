@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-iam-instance-profile-associations
 
 items:
-  - IAM Instance Profile Associations
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

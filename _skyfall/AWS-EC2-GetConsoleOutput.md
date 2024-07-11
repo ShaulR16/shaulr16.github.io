@@ -6,9 +6,9 @@ command: |
   aws ec2 get-console-output --instance-id $id --output text
 
 items:
-  - Console Output
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

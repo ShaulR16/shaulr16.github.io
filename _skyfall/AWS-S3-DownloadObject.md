@@ -16,7 +16,7 @@ items:
 services:
   - AWS S3
 OS:
-  - Internal
+  - External
 attack_types:
   - Enumeration
 references:

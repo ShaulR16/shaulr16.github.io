@@ -10,7 +10,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - Configuration
+  - Enumeration
 references:
   - https://docs.microsoft.com/en-us/powershell/module/azuread/connect-azuread
 ---

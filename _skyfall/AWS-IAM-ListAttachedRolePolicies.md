@@ -10,7 +10,7 @@ command: |
   aws iam list-attached-role-policies --role-name replace_with_role_name
 
 items:
-  - Attached Policies
+  - Access Keys
 services:
   - AWS
 OS:

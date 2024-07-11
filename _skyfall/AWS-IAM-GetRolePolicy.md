@@ -11,7 +11,7 @@ command: |
   aws iam get-role-policy --role-name replace_with_role_name --policy-name replace_with_policy_name
 
 items:
-  - Role Policy Details
+  - Access Keys
 services:
   - AWS
 OS:

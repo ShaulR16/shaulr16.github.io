@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda get-function-event-invoke-config --function-name $name
 items:
-  - Lambda Function Invocation Configurations
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

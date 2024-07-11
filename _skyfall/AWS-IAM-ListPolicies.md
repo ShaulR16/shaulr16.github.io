@@ -6,7 +6,7 @@ command: |
   aws iam list-policies
 
 items:
-  - Policies
+  - Access Keys
 services:
   - AWS
 OS:

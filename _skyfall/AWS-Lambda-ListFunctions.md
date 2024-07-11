@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda list-functions
 items:
-  - Lambda Functions
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

@@ -6,9 +6,9 @@ command: |
   aws ec2 get-console-screenshot --instance-id $id
 
 items:
-  - Console Screenshot
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

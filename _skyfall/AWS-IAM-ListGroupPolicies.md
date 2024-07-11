@@ -10,7 +10,7 @@ command: |
   aws iam list-group-policies --group-name replace_with_group_name
 
 items:
-  - Policies
+  - Access Keys
 services:
   - AWS
 OS:

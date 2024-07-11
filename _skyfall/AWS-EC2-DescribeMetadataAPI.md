@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-instances --filters Name=metadata-options.http-tokens,Values=optional
 
 items:
-  - Metadata API Version 1
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-instance-attribute --instance-id $id --attribute userData --output text --query "UserData.Value" | base64 --decode
 
 items:
-  - Instance User Data
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

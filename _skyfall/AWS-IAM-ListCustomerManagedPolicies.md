@@ -6,7 +6,7 @@ command: |
   aws iam list-policies --scope Local | grep -A2 PolicyName
 
 items:
-  - Customer Managed Policies
+  - Access Keys
 services:
   - AWS
 OS:

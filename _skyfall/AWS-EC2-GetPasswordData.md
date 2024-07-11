@@ -6,9 +6,9 @@ command: |
   aws ec2 get-password-data --instance-id $id
 
 items:
-  - Admin Password
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

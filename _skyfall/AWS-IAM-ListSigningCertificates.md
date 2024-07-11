@@ -10,7 +10,7 @@ command: |
   aws iam list-signing-certificates --user-name replace_with_username
 
 items:
-  - Signing Certificates
+  - Access Keys
 services:
   - AWS
 OS:

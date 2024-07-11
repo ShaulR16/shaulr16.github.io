@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda list-versions-by-function --function-name $name
 items:
-  - Lambda Function Versions
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-client-vpn-endpoints
 
 items:
-  - Client VPN Endpoints
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

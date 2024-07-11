@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda list-layers
 items:
-  - Lambda Layers
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

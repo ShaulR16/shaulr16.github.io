@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-addresses
 
 items:
-  - Elastic IP Addresses
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

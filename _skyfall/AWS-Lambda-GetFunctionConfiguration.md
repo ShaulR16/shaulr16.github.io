@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda get-function-configuration --function-name $name
 items:
-  - Lambda Function Configuration
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

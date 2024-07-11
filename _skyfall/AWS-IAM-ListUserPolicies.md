@@ -10,7 +10,7 @@ command: |
   aws iam list-user-policies --user-name replace_with_username
 
 items:
-  - IAM Roles & Policies
+  - Access Keys
 services:
   - AWS
 OS:

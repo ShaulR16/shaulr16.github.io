@@ -13,7 +13,7 @@ items:
 services:
   - AWS DynamoDB
 OS:
-  - External
+  - Internal
 attack_types:
   - Enumeration
 references:

@@ -10,11 +10,11 @@ command: |
   aws s3api get-public-access-block --bucket replace_with_bucket_name
 
 items:
-  - Public Access Block
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
-  - Internal
+  - External
 attack_types:
   - Enumeration
 references:

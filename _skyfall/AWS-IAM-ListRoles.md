@@ -6,7 +6,7 @@ command: |
   aws iam list-roles
 
 items:
-  - Roles
+  - Access Keys
 services:
   - AWS
 OS:

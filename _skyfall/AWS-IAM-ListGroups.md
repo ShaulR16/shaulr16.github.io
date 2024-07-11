@@ -6,7 +6,7 @@ command: |
   aws iam list-groups
 
 items:
-  - Groups
+  - Access Keys
 services:
   - AWS
 OS:

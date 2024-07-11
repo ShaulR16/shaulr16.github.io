@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-client-vpn-authorization-rules --client-vpn-endpoint-id $id
 
 items:
-  - Client VPN Authorization Rules
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

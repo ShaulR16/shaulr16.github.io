@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-instances
 
 items:
-  - EC2 Instances
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

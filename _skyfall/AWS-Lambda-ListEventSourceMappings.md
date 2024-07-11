@@ -4,9 +4,9 @@ description: |
 command: |
   aws lambda list-event-source-mappings --function-name $name
 items:
-  - Lambda Function Event Source Mappings
+  - Access Keys
 services:
-  - AWS Lambda
+  - AWS
 OS:
   - Internal
 attack_types:

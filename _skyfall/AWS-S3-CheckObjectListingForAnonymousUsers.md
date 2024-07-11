@@ -11,11 +11,11 @@ command: |
   curl http://replace_with_domain/replace_with_bucket_name | xmllint --format -f
 
 items:
-  - Object Listing for Anonymous Users
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
-  - Internal
+  - External
 attack_types:
   - Enumeration
 references:

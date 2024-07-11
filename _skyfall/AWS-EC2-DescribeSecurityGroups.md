@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-security-groups
 
 items:
-  - Security Groups
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

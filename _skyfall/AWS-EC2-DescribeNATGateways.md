@@ -6,9 +6,9 @@ command: |
   aws ec2 describe-nat-gateways
 
 items:
-  - NAT Gateways
+  - Access Keys
 services:
-  - AWS EC2
+  - AWS
 OS:
   - Internal
 attack_types:

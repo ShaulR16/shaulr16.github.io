@@ -11,9 +11,9 @@ command: |
   aws s3api get-object-acl --bucket replace_with_bucket_name --key replace_with_file_name
 
 items:
-  - Object ACLs
+  - Access Keys
 services:
-  - AWS S3
+  - AWS
 OS:
   - Internal
 attack_types:
