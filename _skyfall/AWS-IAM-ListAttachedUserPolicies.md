@@ -1,16 +1,10 @@
 ---
 description: |
-  AWS CLI command to list attached policies for a specific IAM user.
-
-  Command Reference:
-
-  	User: replace_with_username
-
+  AWS IAM command to list attached user policies for a specified user.
 command: |
-  aws iam list-attached-user-policies --user-name replace_with_username
-
+  aws iam list-attached-user-policies --user-name user-name
 items:
-  - IAM Roles & Policies
+  - Access Keys
 services:
   - AWS
 OS:
