@@ -12,7 +12,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - Enumeration
+  - PostExp
 references:
   - https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html
 ---

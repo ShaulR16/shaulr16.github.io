@@ -10,7 +10,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - Enumeration
+  - Exploitation
 references:
   - https://docs.microsoft.com/en-us/powershell/module/az.keyvault/get-azkeyvault
 ---

@@ -10,7 +10,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - Enumeration
+  - Exploitation
 references:
   - https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/list-secrets.html
 ---

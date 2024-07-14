@@ -2,8 +2,6 @@
 description: |
   AWS CLI command to list all DynamoDB tables using a specific endpoint URL.
 
-    Command Reference:
-
   	URL: replace_with_url
 
 command: |

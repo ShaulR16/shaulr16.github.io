@@ -10,7 +10,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - Enumeration
+  - Exploitation
 references:
   - https://cloud.google.com/sdk/gcloud/reference/app/instances/ssh
 ---

@@ -10,7 +10,7 @@ services:
 OS:
   - Internal
 attack_types:
-  - PostExp
+  - Enumartion
 references:
   - https://cloud.google.com/sdk/gcloud/reference/sql/users/list
 ---

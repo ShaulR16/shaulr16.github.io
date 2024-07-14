@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to scan a DynamoDB table named "users" using a specific endpoint URL and format the output with jq.
 
-    Command Reference:
+    Reference:
 
   	URL: replace_with_url
 
