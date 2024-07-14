@@ -10,5 +10,5 @@ bundle:
 	bundle install
 
 lint:
-	yamllint _skyfall/*.md
+	yamllint _cloudcmd/*.md
 	scripts/validate-schema.py

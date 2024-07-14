@@ -85,4 +85,4 @@ def validate_directory(root):
             sys.exit(1)
 
 if __name__ == '__main__':
-   validate_directory("_skyfall/") 
+   validate_directory("_cloudcmd/") 

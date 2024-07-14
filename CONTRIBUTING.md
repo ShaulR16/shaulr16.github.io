@@ -1,6 +1,6 @@
 ## Structure
 
-Each WAD Command is defined in a file in the [`_skyfall/`] folder named as `<tool name>.md`, such file consists only of a [YAML] front matter which describes the command and its attributes.
+Each WAD Command is defined in a file in the [`_cloudcmd/`] folder named as `<tool name>.md`, such file consists only of a [YAML] front matter which describes the command and its attributes.
 
 The full syntax is the following:
 
@@ -41,7 +41,7 @@ references:
 
 Where `ITEM` is one of the values described in the [`_data/items.yml`] file, `SERVICE` is one of the values described in the [`_data/services.yml`] file, `OS` is one of the values described in the [`_data/OS.yml`] file, `ATTACK_TYPE` is one of the values described in the [`_data/attack_types.yml`] file, and `LINK` is a link to download the related tool for that command as well as links to any other relevant information about what the command is doing. 
 
-Feel free to use any file in the [`_skyfall/`] folder as an example.
+Feel free to use any file in the [`_cloudcmd/`] folder as an example.
 
 ## Pull request process
 
@@ -57,8 +57,8 @@ Before sending a pull request of a new command, ensure the following:
 Pull requests adding new items in [`_data/items.yml`], services in [`_data/services.yml`], OS in [`_data/OS.yml`], or attack types in [`_data/attack_types.yml`] are allowed and subjected to project maintainers vetting.
 
 [YAML]: http://yaml.org/
-[`_skyfall/`]: https://github.com/skyfall/skyfall.github.io/tree/master/_skyfall
-[`_data/services.yml`]: https://github.com/skyfall/skyfall.github.io/blob/master/_data/services.yml
-[`_data/items.yml`]: https://github.com/skyfall/skyfall.github.io/blob/master/_data/items.yml
-[`_data/OS.yml`]: https://github.com/skyfall/skyfall.github.io/blob/master/_data/OS.yml
-[`_data/attack_types.yml`]: https://github.com/skyfall/skyfall.github.io/blob/master/_data/attack_types.yml
+[`_cloudcmd/`]: https://github.com/cloudcmd/cloudcmd.github.io/tree/master/_cloudcmd
+[`_data/services.yml`]: https://github.com/cloudcmd/cloudcmd.github.io/blob/master/_data/services.yml
+[`_data/items.yml`]: https://github.com/cloudcmd/cloudcmd.github.io/blob/master/_data/items.yml
+[`_data/OS.yml`]: https://github.com/cloudcmd/cloudcmd.github.io/blob/master/_data/OS.yml
+[`_data/attack_types.yml`]: https://github.com/cloudcmd/cloudcmd.github.io/blob/master/_data/attack_types.yml

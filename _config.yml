@@ -1,16 +1,16 @@
 ---
-title: SkyFall
+title: CloudCMD
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
 
 permalink: pretty
 
 collections:
-  skyfall:
+  cloudcmd:
     output: true
 
 defaults:
   - scope:
-      path: '_skyfall'
+      path: '_cloudcmd'
     values:
       layout: bin
