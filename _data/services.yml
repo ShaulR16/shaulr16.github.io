@@ -7,9 +7,9 @@ Azure:
   label: Azure
   description: Microsoft Azure cloud platform offering a variety of cloud services including analytics, storage, and networking.
 
-Google Cloud:
-  label: Google Cloud
-  description: Google Cloud Platform providing cloud computing services on the same infrastructure as Google Search and YouTube.
+GCP:
+  label: GCP
+  description: GCP Platform providing cloud computing services on the same infrastructure as Google Search and YouTube.
 
 Oracle Cloud:
   label: Oracle Cloud

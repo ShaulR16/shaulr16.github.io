@@ -6,7 +6,7 @@ command: |
 items:
   - Access Keys
 services:
-  - gcp
+  - GCP
 OS:
   - Internal
 attack_types:
