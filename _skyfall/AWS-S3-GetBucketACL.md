@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to get ACLs (Access Control Lists) for an S3 bucket.
 
-  Command Reference:
+  Reference:
 
   	Bucket Name: replace_with_bucket_name
 

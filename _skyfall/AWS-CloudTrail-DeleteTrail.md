@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to delete a CloudTrail trail named "replace_with_CloudTrail_name" using the "administrator" profile.
 
-  Command Reference:
+  Reference:
 
     Cloudguard Name: replace_with_CloudTrail_name
 

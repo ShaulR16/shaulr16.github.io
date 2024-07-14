@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to update a CloudTrail trail named "replace_with_CloudTrail_name" to exclude global service events.
 
-  Command Reference:
+  Reference:
 
     CloudTrail Name: replace_with_CloudTrail_name
 

@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to get details about a specific IAM role.
 
-  Command Reference:
+  Reference:
 
   	Role Name: replace_with_role_name
 

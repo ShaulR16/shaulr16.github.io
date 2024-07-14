@@ -2,13 +2,11 @@
 description: |
   AWS CLI command to enumerate objects within an S3 bucket.
 
-  Command Reference:
+  Reference:
 
   	Bucket Name: replace_with_bucket_name
 
 command: |
-  aws s3api list-objects-v2 --bucket replace_with_bucket_name
-  aws s3api list-objects --bucket replace_with_bucket_name
   aws s3 ls replace_with_bucket_name
 
 items:

@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to list groups associated with a specific IAM user.
 
-  Command Reference:
+  Reference:
 
   	User: replace_with_username
 

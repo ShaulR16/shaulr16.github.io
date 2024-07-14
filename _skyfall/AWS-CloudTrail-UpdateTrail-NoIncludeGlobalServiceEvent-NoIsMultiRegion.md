@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to update a CloudTrail trail named "replace_with_CloudTrail_name" to exclude global service events and disable multi-region logging.
 
-  Command Reference:
+  Reference:
 
     Cloudguard Name: replace_with_CloudTrail_name
 

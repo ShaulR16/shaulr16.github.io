@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to list SSH public keys for a specific IAM user.
 
-  Command Reference:
+  Reference:
 
   	User: replace_with_username
 

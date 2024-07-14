@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to download an object from an S3 bucket to a local path.
 
-  Command Reference:
+  Reference:
 
   	Bucket Name: replace_with_bucket_name
   	File Name: replace_with_file_name

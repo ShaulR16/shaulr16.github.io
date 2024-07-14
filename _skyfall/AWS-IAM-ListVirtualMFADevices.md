@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to list virtual multi-factor authentication (MFA) devices for IAM users.
 
-  Command Reference:
+  Reference:
 
 command: |
   aws iam list-virtual-mfa-devices

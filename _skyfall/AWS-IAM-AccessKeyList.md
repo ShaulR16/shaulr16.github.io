@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to list IAM access keys for a user. IAM access keys are credentials used for programmatic access to AWS services. It's important to monitor and rotate access keys regularly to maintain security and prevent unauthorized access.
 
-  Command Reference:
+  Reference:
 
   	User: replace_with_username
 

@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to get details about a specific version of an IAM policy.
 
-  Command Reference:
+  Reference:
 
   	Policy ARN: replace_with_policy_arn
   	Version ID: replace_with_version_id

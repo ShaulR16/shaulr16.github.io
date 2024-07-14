@@ -2,7 +2,7 @@
 description: |
   Check if object listing is allowed for anonymous users by accessing the bucket URL via curl.
 
-  Command Reference:
+  Reference:
 
   	Domain: replace_with_domain
   	Bucket Name: replace_with_bucket_name

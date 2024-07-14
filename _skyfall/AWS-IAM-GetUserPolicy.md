@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to get details about a specific policy attached to an IAM user.
 
-  Command Reference:
+  Reference:
 
   	User: replace_with_username
   	Policy Name: replace_with_policy_name

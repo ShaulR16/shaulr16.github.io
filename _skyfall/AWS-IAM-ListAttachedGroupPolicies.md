@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to list attached policies for an IAM group.
 
-  Command Reference:
+  Reference:
 
   	Group: replace_with_group_name
 

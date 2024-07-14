@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to get login profile information for a specific IAM user.
 
-  Command Reference:
+  Reference:
 
   	User: replace_with_username
 

@@ -8,7 +8,7 @@ The full syntax is the following:
 ---
 description: Description of what the command does.
 
-  Command Reference:
+  Reference:
 
   	Target IP: 10.10.10.1
 

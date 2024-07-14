@@ -2,7 +2,7 @@
 description: |
   AWS CLI command to list policies attached to an IAM role.
 
-  Command Reference:
+  Reference:
 
   	Role Name: replace_with_role_name
 
