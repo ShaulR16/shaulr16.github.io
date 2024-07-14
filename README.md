@@ -7,5 +7,5 @@ cloudcmd is an interactive cheat sheet, containing a curated list of offensive s
 
 Find the project at https://cloudcmd.github.io
 
-Created by [ShaulR16](https://twitter.com/x)
+Created by [ShaulR16](https://x.com/Shaul166)
 
